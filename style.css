@@ -479,15 +479,15 @@ a{
 
     font-size: 1.25rem;
     line-height: 1.75rem;
-    color: rgb(12, 108, 242);
+    color: #121D33;
 	display: flex;
-	background-color:  rgba(236, 245, 254, 0.5);
+	background-color: rgb(240, 242, 247);
 	margin-right: 48vw;
 	align-items: flex-start;
 	justify-content: flex-end;
 	border-radius: 40px;	
 	margin-left: 170px;
-	height: 700px;
+	height: 650px;
 	width: 75vw;
 	padding-top: 50px;
     padding-bottom: 50px;
@@ -495,5 +495,60 @@ a{
     padding-left:10px;
     padding-right: 0px;
 
+
+}
+
+
+.Instu-right{
+    background-image: url("box4.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:110rem;
+    height:775px;
+    border: 0.25px solid transparent;
+    margin-bottom:10px; 
+    margin-top:50px;
+    padding-right:1px;
+    margin-right:1px;
+}
+
+.Instu-left
+{
+    border:1px solid transparent    ;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.InsuMain{
+    font-size:40px;
+    line-height: 1.2em;
+    border: 3px solid transparent;
+    margin-top: -50px;
+  
+}
+
+.InsuPoint{
+    font-size: 1em;
+    border: 3px solid transparent;
+    margin-top: -15px;
+}
+.InstuImg{
+    background-image: url("Instu.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:200px;
+    height: 100px;
+
+}
+
+.Button5{
+    border: 1px solid transparent;
+    color: white;
+    background: #677185;
+    margin-top: 10px;
+    margin-right:335px;
+    padding:12px 20px;
+    border-radius: 8px;
+    font-size: 20px;
 
 }
