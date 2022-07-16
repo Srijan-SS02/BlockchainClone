@@ -50,7 +50,6 @@ a{
 
 .options{
     display: flex;
-    
     margin-left: 5.8rem;
     
 }
@@ -161,8 +160,9 @@ a{
 }
 
 .Box-1 h3{
+
 	font-size: 28px;
-	font-family: font-family: Inter, -apple-system, BlinkMacSystemFont, 
+    font-family: Inter, -apple-system, BlinkMacSystemFont, 
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     letter-spacing:0.08srem;    
 
@@ -183,6 +183,7 @@ a{
 }
 
 .button2{
+
     color: rgb(18, 29, 51);
     background: rgb(255, 255, 255);
     border: 2px solid transparent;
@@ -198,8 +199,119 @@ a{
 
 }
 
+/* #################################################################################################################################*/
+
+
+                                /* ^^^^^^^^^^^^^^^ wallet ^^^^^^^^^^^^^^^^^^^^^^^*/
+
+
+.wallet{
+
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+	color: rgb(115, 73, 242);;
+	display: flex;
+	background-color: rgba(239, 236, 254, 0.5);
+	margin-right: 48vw;
+	align-items: flex-start;
+	justify-content: flex-end;
+	border-radius: 40px;	
+	margin-left: 170px;
+	height: 750px;
+	width: 75vw;
+	padding-top: 50px;
+    padding-bottom: 50px;
+	margin-top: 200px;
+    padding-left:10px;
+    padding-right: 0px;
+
+}
+
+
+.wallet-right{
+
+    border: 0.25px solid transparent;
+    padding-right:0px;
+    margin-left:100px;
+    margin-right:10px;
+    width:1200px;
+
+}
+
+
+.msg{
+    font-size: 35px;
+    line-height: 40px;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+}
+
+
+.mainPoint{
+    font-size:18px;
+	padding: 8px 16px 20px;
+    padding-right:10px;
+    padding-bottom:8px;
+    padding-top:6px;
+	background-color:rgba(239,236,254,255);
+    border: 0.25px rgb(192, 194, 194) solid;
+	border-radius: 10px;
+	margin-bottom:10px;
+    font-family: inter,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.5rem;;
+
+    
 
 
 
-                
+}
 
+
+.point{
+
+    border: 0.25px rgb(192, 194, 194) solid;
+    border-radius: 10px;
+    margin-top:15px;
+    font-family:sans-serif;
+	font-size:18px ;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 15px;
+    font-family: inter,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:18px;
+
+}
+
+
+.point :visited{
+	color:rgb(97, 61, 224)
+}
+
+
+.button3
+{
+    border: 1px solid transparent;
+    color: rgb(18, 29, 51);
+    background: rgb(115, 73, 242);
+    margin-top: 30px;
+    margin-right:350px;
+    padding:12px 20px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+
+.wallet-left{
+    background-image: url("wallet2.png");
+    background-repeat:no-repeat;
+    width:100%;
+    height:775px;
+    border: 0.25px solid transparent;
+    margin-bottom:10px; 
+    margin-top:100px;
+    padding-right:1px;
+    margin-right:1px;
+}
