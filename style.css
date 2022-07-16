@@ -268,6 +268,26 @@ a{
 
 }
 
+.walletImg {
+    background-image: url("wallet1.png.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    padding-top: -2px;
+    border:1px solid transparent;
+    padding-right: 75px;
+    border-radius: 12px;
+    background-color:#EFECFE;
+
+}
+
+.walletImg p{
+    margin-left: 50px;
+    margin-top: 13px;
+    
+}
+
 
 .point{
 
@@ -297,16 +317,18 @@ a{
     color: rgb(18, 29, 51);
     background: rgb(115, 73, 242);
     margin-top: 30px;
-    margin-right:350px;
+    margin-right:390px;
     padding:12px 20px;
     border-radius: 10px;
+
     font-size: 1.3rem;
 }
 
 
 .wallet-left{
-    background-image: url("wallet2.png");
+    background-image: url("box2.png");
     background-repeat:no-repeat;
+    background-size: contain;
     width:100%;
     height:775px;
     border: 0.25px solid transparent;
@@ -315,3 +337,11 @@ a{
     padding-right:1px;
     margin-right:1px;
 }
+
+.wallet-left  img{
+    
+    margin-top: -30px;
+    margin-left: 100px;
+    width: 350px;
+    height: 500px;
+    }
