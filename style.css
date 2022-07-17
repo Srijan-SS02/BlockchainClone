@@ -552,3 +552,169 @@ a{
     font-size: 20px;
 
 }
+
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Explore $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+
+
+.Explore{
+
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+	color: #f28b24;
+	display: flex;
+	background-color: rgba(255, 242, 229, 0.5);
+	margin-right: 48vw;
+	align-items: flex-start;
+	justify-content: flex-end;
+	border-radius: 30px;	
+	margin-left: 170px;
+	height: 770px;
+	width: 75vw;
+	padding-top: 50px;
+    padding-bottom: 50px;
+	margin-top: 200px;
+    padding-left:10px;
+    padding-right: 0px;
+
+
+}
+
+.Explore-left{
+
+    border: 0.25px solid transparent;
+    padding-right:0px;
+    margin-left:100px;
+    margin-right:10px;
+    width:1200px;
+
+}
+
+
+
+.expMainPoint{
+    font-size:18px;
+	padding: 8px 16px 20px;
+    padding-right:10px;
+    padding-bottom:8px;
+    padding-top:6px;
+	background-color :#fff2e5;
+    border: 0.25px rgb(222, 216, 253) solid;
+	border-radius: 10px;
+	margin-bottom:10px;
+    font-family: inter,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.5rem;
+}
+
+.ExploreImg {
+    background-image: url("binoc.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    padding-top: -2px;
+    border:1px solid transparent;
+    padding-right: 75px;
+    border-radius: 12px;
+    background-color:#FFF2E5;
+
+}
+
+.ExploreImg p{
+    margin-left: 50px;
+    margin-top: 13px;
+    
+}
+
+
+.explpoint{
+
+    border: 0.25px rgb(222, 216, 253) solid;
+    border-radius: 10px;
+    margin-top:15px;
+    font-family:sans-serif;
+	font-size:18px ;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 15px;
+    font-family: inter,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:18px;
+
+}
+
+
+.explpoint :visited{
+	color:#f28b24;
+}
+
+
+.button6
+{
+    border: 1px solid transparent;
+    color: rgb(18, 29, 51);
+    background: #f28b24;
+    margin-top: 100px;
+    margin-right:365px;
+    padding:12px 20px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+
+.Explore-right{
+    background-image: url("box5.png");
+    background-repeat:no-repeat;
+    background-size: contain;
+    width:100%;
+    height:775px;
+    border: 0.25px solid transparent;
+    margin-bottom:10px; 
+    margin-top:20px;
+    padding-right:1px;
+    margin-right:1px;
+}
+
+.Explore-right  img{
+    
+    margin-top: 95px;
+    margin-left: 50px;
+    width: 350px;
+    height: 500px;
+}
+
+/* lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll*/
+
+.End{
+	color: white;
+	display: flex;
+	background-color: rgb(18, 29, 51);
+	background-image: url("end.png");
+	width: 100%;
+	height: 170px;
+	justify-content: center;
+	padding-top: 50px;
+    border: 1px solid transparent;
+    margin-top:50px;
+}
+
+.End h1{
+    border: 1px solid transparent;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+
+.button7{
+	color:rgb(28, 120, 231);
+	background-color : white;
+	border: 1px solid white;
+	font-size: 20px;
+	border-radius: 8px;
+	padding:15px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 10px;
+    margin-left: 10px;
+}
