@@ -5,14 +5,14 @@ body{
 
 .TopTag{
     display: flex;
-    /*position: fixed;*/
+    /* position: fixed; */
     justify-content: center;
     align-items: center ;
     color: white;
     font-size: 1.04rem;
     z-index: 10;
     font-weight: 500;
-    width :100%;
+    width : 97.5%;
     padding: 0.75rem 1rem;
     font-family: Inter, -apple-system,
 	BlinkMacSystemFont, "Segoe UI",
@@ -22,7 +22,8 @@ body{
     
 
     background-image: linear-gradient(to right, rgb(9, 86, 191), rgb(4, 64, 143), rgb(2, 54, 120), rgb(4, 64, 143), rgb(9, 86, 191));
-   
+
+    /* margin-bottom: 100px; */
 }
 
 .TopTag :hover{
@@ -53,7 +54,9 @@ a{
     margin-left: 5.8rem;
     
 }
+
 .options div{
+
     border: 1px solid transparent;
     margin-right:15px;
     margin-top: 10px;
@@ -63,6 +66,7 @@ a{
     padding-right:10px;
     padding-bottom: 18px;
     border-radius: 1em;
+
 }
 
 .opt{
